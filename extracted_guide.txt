@@ -1,0 +1,2408 @@
+﻿COMPLETE FREE API 
+GUIDE  +
+  CLAUDE AI INTEGRATION
+Api           
+ for 
+â– 
+0
+ / Month
+44
+ free 
+APIs  â€¢
+  Step-by-step 
+signup  â€¢
+  
+Exact .env
+ 
+template  â€¢
+  Claude integration guide
+44
+Free/Freemium APIs
+$0
+Dev infrastructure
+FREE
+Groq
+ LLM
+CLAUDE
+Where + How
+What this guide covers (5 parts):
+Part 1: All 44 free/freemium APIs â€” what each does, cost, env variable name, signup URL.
+Part 2: Claude AI â€” exactly where it fits, which model per agent, how to get access + free strategy.
+Part 3: Step-by-step signup instructions for the 9 most important APIs (
+Groq
+, Gemini, 
+Supabase
+, etc).
+Part 4
+: .env
+ master template â€” every variable with exact format and where to get it.
+Part 5: 14-day action plan â€” get the entire API stack ready in two weeks.
+PART 1 â€” All 44 Free + Freemium APIs
+green = 
+free  â€¢
+  amber = freemium
+COMPLETE FREE API 
+GUIDE  +
+  CLAUDE AI INTEGRATION
+Api           
+ for 
+â– 
+0
+ / Month
+44
+ free 
+APIs  â€¢
+  Step-by-step 
+signup  â€¢
+  
+Exact .env
+ 
+template  â€¢
+  Claude integration guide
+44
+Free/Freemium APIs
+$0
+Dev infrastructure
+FREE
+Groq
+ LLM
+CLAUDE
+Where + How
+What this guide covers (5 parts):
+Part 1: All 44 free/freemium APIs â€” what each does, cost, env variable name, signup URL.
+Part 2: Claude AI â€” exactly where it fits, which model per agent, how to get access + free strategy.
+Part 3: Step-by-step signup instructions for the 9 most important APIs (
+Groq
+, Gemini, 
+Supabase
+, etc).
+Part 4
+: .env
+ master template â€” every variable with exact format and where to get it.
+Part 5: 14-day action plan â€” get the entire API stack ready in two weeks.
+PART 1 â€” All 44 Free + Freemium APIs
+green = 
+free  â€¢
+  amber = freemium
+Every API 
+NovaMind
+ needs. Green cost = completely free. Amber = free tier available but has limits. Click-through URLs to sign up directly.
+API / Service
+Catego
+ 
+ry
+Free Plan
+Paid Plan
+Auth
+Env Variable
+What it does in 
+NovaMind
+Sign up URL
+Google
+Gemini Flash
+AI/LLM
+FREE â€” 15 RPM, 1M tokens/day
+$0.075/1M
+(Pro)
+API Key
+GOOGLE_AI_AP
+I_KEY
+Powers agents as free LLM. Use for social posts, news summaries, content safety checks.
+aistudio.googl
+e.com
+Groq
+ API
+AI/LLM
+FREE â€”
+1,000 
+req
+/day,
+LLaMA
+ 3.3
+70B
+Pay-as-
+yougo
+ after
+API Key
+GROQ_API_KEY
+Ultra-fast free LLM. Best free alternative to Claude for dev/testing all agents.
+console.groq
+.c
+ om
+Mistral API
+AI/LLM
+Free tier (le chat) / Mistral 7B
+trial
+$0.15/1M
+(7B)
+API Key
+MISTRAL_API_
+KEY
+European GDPR-friendly fallback LLM. Good for multilingual content generation.
+console.mistra
+l.ai
+HuggingFace
+Inference
+AI/LLM
+FREE
+serverless (rate limited)
+$0.06+/hour
+(dedicated)
+API Key
+HUGGINGFACE_
+API_KEY
+Free embeddings + thousands of open-source models for specialist tasks.
+huggingface.co /settings/
+toke
+ ns
+Ollama
+(self-hosted)
+AI/LLM
+100% FREE â€” runs on your machine
+Only compute cost
+None
+No key needed
+Self-host Llama 3, Mistral, DeepSeek locally. Zero API cost for development.
+ollama.ai
+Anthropic
+Claude
+AI/LLM
+$5 free credit on signup
+$0.25-$15/1
+M tokens
+API Key
+ANTHROPIC_AP
+I_KEY
+Best quality LLM for agents. Haiku cheapest, Sonnet mid, Opus for strategy tasks.
+console.anthro
+ pic.com
+Google
+Analytics 4
+Analytic s
+FREE
+always
+FREE
+OAuth
+2.0
+GOOGLE_CLIEN
+T_ID
+Growth Strategy agent pulls traffic, conversions, session data for analysis.
+console.cloud
+.
+google.com
+API / Service
+Catego
+ 
+ry
+Free Plan
+Paid Plan
+Auth
+Env Variable
+What it does in 
+NovaMind
+Sign up URL
+Google
+Search
+Console
+Analytic s/SEO
+FREE
+always
+FREE
+OAuth
+2.0
+GOOGLE_CLIEN
+T_ID (same)
+SEO agent monitors keyword rankings, impressions, CTR, position changes.
+console.cloud
+.
+google.com
+Google
+Keyword
+Planner
+SEO
+FREE with
+Google Ads account
+FREE
+OAuth
+2.0
+GOOGLE_CLIEN
+T_ID (same)
+Free keyword volumes + suggestions. No spend required â€” just create an Ads account.
+ads.google.com /home/tools/
+ke
+ 
+yword
+-planner
+Ahrefs
+Webmaster
+Tools
+SEO
+FREE for your
+verified site
+$139/
+mo
+full platform
+OAuth
+AHREFS_WMT_K
+EY
+Free site audit, backlink checker, keyword data for one owned domain.
+ahrefs.com/web master-tools
+Ubersuggest
+SEO
+3 searches
+/
+day
+ FREE
+$12/
+mo
+API Key
+UBERSUGGEST_
+KEY
+Keyword research, competitor analysis, SERP data. Good for low-volume bootstrapping.
+neilpatel.com/ 
+ubersuggest
+AnswerTheP
+ublic
+SEO/Co
+ntent
+3 searches
+/
+day
+ FREE
+$9/
+mo
+API Key
+ATP_API_KEY
+Question-based keyword clusters for Industry News + SEO content ideation.
+answerthepubli
+c.com
+Serper
+ API
+SERP/S 
+earch
+2,500 free searches
+$0.001/sear 
+ch
+ after
+API Key
+SERPER_API_K
+EY
+Real Google SERP results as JSON. Competitor Intel + SEO + GEO agents.
+serper.dev
+DataForSEO
+SEO/SE
+RP
+No monthly fee â€” pay per use
+~$0.0006/ta 
+sk
+API Key
+DATAFORSEO_L
+OGIN
+SERP scraping + keyword data. Cheapest production-grade SEO API available.
+app.dataforseo
+ .com/register
+LinkedIn API
+Social
+FREE (MDP
+approval needed)
+FREE
+OAuth
+2.0
+LINKEDIN_CLI
+ENT_ID
+Social Media agent publishes posts. PR agent sends InMail.
+Apply early â€” 2-4 weeks.
+developer.link
+ edin.com
+Instagram
+Graph API
+Social
+FREE via
+Meta
+FREE
+OAuth
+2.0
+META_APP_ID
+Social Media agent publishes posts, stories, reads engagement. Needs App Review.
+developers.fac
+ ebook.com
+Facebook
+Graph API
+Social
+FREE
+(
+same
+Meta app)
+FREE
+OAuth
+2.0
+META_APP_ID
+(same)
+Posts to Facebook Pages. Same Meta developer app as Instagram â€” zero extra cost.
+developers.fac
+ ebook.com
+Pinterest API v5
+Social
+FREE
+FREE
+OAuth
+2.0
+PINTEREST_AP
+P_ID
+Social Media agent creates pins + boards. Easiest social API to integrate.
+developers.pin
+ terest.com
+Reddit API
+Social Li 
+stening
+FREE 100
+QPM via
+OAuth
+$0.24/1k extra calls
+OAuth
+2.0
+REDDIT_CLIEN
+T_ID
+Social Listening agent monitors brand mentions + sentiment in subreddits.
+reddit.com/pre fs/apps
+HubSpot
+CRM API
+CRM
+FREE CRM
+tier
+Paid for
+Marketing
+Hub
+API Key
+HUBSPOT_ACCE
+SS_TOKEN
+Growth Strategy agent pulls pipeline + lead data to correlate marketing ROI.
+app.hubspot.co m
+Razorpay
+Payment s
+No monthly fee
+2% per transaction
+API Key
+RAZORPAY_KEY
+_ID
+Subscription billing
+(Starter/Growth/Scale), credit top-ups. UPI + cards native.
+razorpay.com
+WordPress
+REST API
+CMS
+FREE
+self-hosted
+FREE
+App Pas sword
+WP_APP_PASSW
+ORD
+SEO + GEO agents publish articles + inject Schema.org markup automatically.
+developer.word
+ press.org/rest
+-
+api
+Ghost Admin
+API
+CMS
+FREE
+self-hosted
+FREE
+API Key
+GHOST_ADMIN_
+API_KEY
+SEO agent publishes posts to Ghost blogs. Simplest CMS API to integrate.
+ghost.org/docs /admin-
+api
+API / Service
+Catego
+ 
+ry
+Free Plan
+Paid Plan
+Auth
+Env Variable
+What it does in 
+NovaMind
+Sign up URL
+Webflow
+ CMS
+API
+CMS
+FREE API (
+Webflow
+ plan needed)
+$23/
+mo
+CMS plan
+API Key
+WEBFLOW_API_
+TOKEN
+SEO agent publishes to 
+Webflow
+ collections. Good for SaaS companies.
+developers.web
+ flow.com
+NewsAPI
+News
+FREE 100 
+req
+/day (dev tier)
+$449/
+mo
+(production)
+API Key
+NEWSAPI_KEY
+Industry News agent scans 80k+ sources for keyword-relevant articles.
+newsapi.org
+newsdata.io
+News
+FREE 200 
+req
+/day
+$49/
+mo
+API Key
+NEWSDATA_API
+_KEY
+Better free tier than 
+NewsAPI
+.
+200 requests/day free.
+Recommended alternative.
+newsdata.io
+RSS / Atom
+Feeds
+News
+FREE always â€” just HTTP
+GET
+FREE
+None
+No key needed
+Industry News agent polls curated RSS feeds. Zero cost, zero auth, instant setup.
+Any /feed or
+/rss.xml URL
+Clerk
+Auth
+FREE to
+10,000
+MAU
+$25/
+mo
+ Pro
+API Key
+CLERK_SECRET
+_KEY
+User sign-up, sign-in, workspace invites, session management, RBAC roles.
+clerk.com
+Supabase
+Databas
+ e
+FREE
+500MB +
+1GB
+storage
+$25/
+mo
+ Pro
+(8GB)
+API Key
+DATABASE_URL
+PostgreSQL + 
+pgvector
+ extension + S3 file storage. Core data layer.
+supabase.com
+Upstash
+Redis
+Cache/L edger
+FREE
+10,000 co 
+mmands
+/d ay
+$0.20/100k after
+API Key
+REDIS_URL
+Real-time credit deduction (atomic), session cache, rate limiting.
+upstash.com
+Ably
+Real-
+tim
+ e
+FREE 6M messages/ month
+$39/
+mo
+ beyond
+API Key
+ABLY_API_KEY
+Live feed WebSocket push. Job cards appear in browser without polling.
+ably.com
+Resend
+Email
+FREE
+3,000 email s/month
+$20/
+mo
+(50k)
+API Key
+RESEND_API_K
+EY
+Job card escalation alerts, payment notifications, welcome emails.
+resend.com
+Neo4j Aura
+Free
+Graph
+DB
+FREE 200k nodes
+$65/
+mo
+ Pro
+API Key
+NEO4J_URI
+Entity knowledge graph. Brands, products, journalists, keywords + relationships.
+neo4j.com/clou d/aura
+Confluent
+Cloud
+Kafka
+Free serverless
+tier
+~$15/
+mo
+cluster
+API Key
+KAFKA_BROKER
+S
+Event bus for all agent task dispatch. Topics: 
+agent.tasks
+, 
+trigger.events
+, DLQ.
+confluent.io
+Vercel
+Fronten
+ d
+Hosting
+FREE Hobby plan
+$20/
+mo
+ Pro
+(teams)
+API Key
+Set in 
+Vercel
+ dashboard
+Next.js frontend. Auto preview deploys per PR. SSL, CDN, edge functions.
+vercel.com
+Railway
+Backend
+Hosting
+$5/
+mo
+Starter
+$20/
+mo
+ Pro
+API Key
+Set in Railway dashboard
+FastAPI
+ + Celery workers. Auto-scales. Best for Python backends.
+railway.app
+GrowthBook
+Feature
+Flags
+FREE open source
+(self-host)
+FREE
+API Key
+GROWTHBOOK_A
+PI_KEY
+CRO agent A/B experiments.
+Deploy to Railway for zero cost.
+github.com/
+gro
+ 
+wthbook
+/growth book
+LangSmith
+AI Obser
+vability
+FREE 5k tr aces/
+mont
+ h
+$39/
+mo
+Developer
+API Key
+LANGCHAIN_AP
+I_KEY
+Traces every 
+LangGraph
+ agent node. Essential for debugging bad outputs.
+smith.langchai
+n.com
+Sentry
+Error
+Tracking
+FREE 5k er 
+rors
+/month
+$26/
+mo
+Team
+API Key
+SENTRY_DSN
+Captures crashes in Next.js +
+FastAPI
+. Shows full stack traces.
+sentry.io
+Grafana
+Cloud
+Observa
+bility
+FREE generous
+tier
+Paid above
+free tier
+API Key
+OTEL_ENDPOIN
+T
+Dashboards, metrics, logs, traces for the full platform.
+grafana.com
+API / Service
+Catego
+ 
+ry
+Free Plan
+Paid Plan
+Auth
+Env Variable
+What it does in 
+NovaMind
+Sign up URL
+Slack API
+Notificati
+ons
+FREE for bots
+FREE
+OAuth
+2.0
+SLACK_BOT_TO
+KEN
+Job card DM alerts, payment failure notifications, agent error alerts.
+api.slack.com/ apps
+Notion API
+KB
+Import
+FREE
+FREE
+API Key
+NOTION_API_K
+EY
+Import brand guidelines from
+Notion into Knowledge Base.
+notion.com/
+myintegrations
+Google Drive
+API
+KB
+Import
+FREE
+FREE
+OAuth
+2.0
+GOOGLE_CLIEN
+T_ID (same)
+Import Google Docs (brand guidelines) into Knowledge Base.
+console.cloud
+.
+google.com
+Gmail API
+PR 
+Outr
+ each
+FREE
+FREE
+OAuth
+2.0
+GOOGLE_CLIEN
+T_ID (same)
+PR agent sends personalized pitch emails from user's Gmail.
+console.cloud
+.
+google.com
+Playwright +
+MCP
+Browser
+Auto
+FREE compute only
+FREE
+None
+No key needed
+Scrapes competitor pages + researches journalist bios without a paid API.
+playwright.dev
+PART 2 â€” Claude AI: Where, Which Model, How to Use it
+complete integration blueprint
+Can you use Claude for FREE?
+claude.ai free plan: Limited messages/day. Great for testing agent prompts manually.
+Anthropic API: $5 free credit on signup â€” test thoroughly before spending anything.
+BEST FREE STRATEGY: Use 
+Groq
+ (
+LLaMA
+ 3.3 70B) for all agents during development â€” 1,000 
+req
+/day FREE.
+Use Gemini Flash (1M tokens/day FREE) for simple tasks. Save Claude for complex/quality-critical tasks.
+Your $5 Anthropic credit = ~20,000 Haiku calls or ~1,600 Sonnet calls. Plenty to build and test.
+PART 2 â€” Claude AI: Where, Which Model, How to Use it
+complete integration blueprint
+Can you use Claude for FREE?
+claude.ai free plan: Limited messages/day. Great for testing agent prompts manually.
+Anthropic API: $5 free credit on signup â€” test thoroughly before spending anything.
+BEST FREE STRATEGY: Use Groq (LLaMA 3.3 70B) for all agents during development â€” 1,000 req/day FREE.
+Use Gemini Flash (1M tokens/day FREE) for simple tasks. Save Claude for complex/quality-critical tasks.
+Your $5 Anthropic credit = ~20,000 Haiku calls or ~1,600 Sonnet calls. Plenty to build and test.
+Claude is used in 12 specific places in 
+NovaMind
+. Here is every one:
+Where Claude is Used
+Which Model
+Cost
+Tier
+Why This Specific Model
+Credits/Task
+Growth Strategy Agent
+claude-haiku-4-5-20251001
+CHEA
+P
+Structured data analysis of GA4+Stripe data, writes growth recommendations. Fast + cheap for data work.
+50 credits
+Competitor Intel Agent
+claude-sonnet-4-6
+MID
+Reads scraped pages, finds gaps, drafts counter-strategy. Needs deeper reasoning than Haiku.
+15 credits
+Social Listening Agent
+claude-haiku-4-5-20251001
+CHEA
+P
+Classifies sentiment of brand mentions. High volume â€” always use cheapest model here.
+2 credits
+Social Media Agent
+claude-sonnet-4-6
+MID
+Drafts platform-native posts in brand voice with creativity. Sonnet quality justified.
+8 credits
+SEO Agent
+claude-sonnet-4-6
+MID
+Long-form article drafting 1500+ words. High quality critical â€” Sonnet pays off here.
+25 credits
+GEO Agent
+claude-sonnet-4-6
+MID
+Optimizes for AI citation engines, generates Schema.org markup, entity extraction.
+10 credits
+Industry News Agent
+claude-haiku-4-5-20251001
+CHEA
+P
+Filters news by relevance, summarizes articles, generates reactive content briefs.
+3 credits
+PR Outreach Agent
+claude-sonnet-4-6
+MID
+Researches journalist beats, writes personalized pitches. Quality matters more than speed.
+12 credits
+CRO Agent
+claude-haiku-4-5-20251001
+CHEA
+P
+Analyzes
+ heatmap data, formulates A/B hypotheses.
+Structured analysis, not creative.
+10 credits
+Memory Agent
+claude-haiku-4-5-20251001
+CHEA
+P
+Extracts learnings from completed tasks, decides what to store. Runs after every task.
+1 credit
+Hallucination Validator
+claude-haiku-4-5-20251001
+CHEA
+P
+Brand voice gate before every job card is created.
+Must run on 100% of outputs.
+1 credit
+Content Safety Gate
+claude-haiku-4-5-20251001
+CHEA
+P
+Checks against prohibited taxonomy before any content can be published. Hard gate.
+1 credit
+Model comparison â€” pick the right one for each task:
+Model
+Best tasks in 
+NovaMind
+Input price
+Output price
+Speed
+Context
+claude-haiku-4-5-202510 01
+Social listening, safety checks, memory extraction, news filtering, simple social posts
+$0.25/1M
+$1.25/1M
+Fastest
+200K
+claude-sonnet-4-6
+SEO articles, competitor analysis, social media drafts, PR pitches, GEO optimization
+$3/1M
+$15/1M
+Fast
+200K
+claude-opus-4-6
+Campaign strategy, multi-step reasoning, high-stakes creative decisions
+$15/1M
+$75/1M
+Slower
+200K
+Other ways to use Claude in 
+NovaMind
+ (beyond the API):
+Claude Product
+How it helps 
+NovaMind
+Cost
+Access
+claude.ai free
+(web/mobile)
+Manually test + refine your agent system prompts before hardcoding them. Test brand voice instructions interactively.
+Free (limited 
+msgs
+/day)
+claude.ai
+Claude Code (CLI)
+Your primary vibe coding tool. Paste the master prompt and build phases 1-13. Best AI coding tool available today.
+$20/
+mo
+ (Pro plan needed)
+claude.ai/code
+Claude in Cursor
+Configure Cursor to use Claude Sonnet as its AI model for the best vibe coding experience.
+$20/
+mo
+ Cursor Pro
+cursor.sh
+Claude for prompt engineering
+Write, test, and iterate all 
+9 agent
+ system prompts on claude.ai before deploying via API. Much faster iteration loop.
+Free tier sufficient
+claude.ai
+Claude via 
+OpenRouter
+Access Claude Haiku/Sonnet via one API alongside 100+ other models. Useful for model switching experiments.
+Same token pricing
+openrouter.ai
+Free cost minimisation strategy for Claude API:
+During development: Use 
+Groq
+ FREE (1k 
+req
+/day) for ALL agent testing. Only switch to Claude for final quality testing.
+Production (100 users): Route 60% of tasks to Haiku (~$45/
+mo
+), 35% to Sonnet (~$180/
+mo
+), 5% to Opus (~$75/
+mo
+).
+Approximate total Claude cost at 100 users: $300-400/
+mo
+ â€” well within 89% gross margin on $9,900 revenue.
+PART 3 â€” Step-by-Step Signup for 9 Key APIs
+do these in order on day 1
+Recommended order: Get databases + auth first, then LLMs, then payments, then social platforms.
+1
+. 
+Supabase
+  2
+. 
+Upstash
+ 
+Redis  3
+. 
+Clerk  4
+. 
+Ably  5
+. 
+Serper
+  6
+. 
+NewsAPI
+  7. 
+Groq
+  8
+. 
+Razorpay
+  9
+. Anthropic
+PART 3 â€” Step-by-Step Signup for 9 Key APIs
+do these in order on day 1
+Recommended order: Get databases + auth first, then LLMs, then payments, then social platforms.
+1
+. Supabase  2. Upstash Redis  3. Clerk  4. Ably  5. Serper  6. NewsAPI  7. Groq  8. Razorpay  9. Anthropic
+Supabase
+ â€” FREE PostgreSQL + 
+pgvector
+ (500MB database)
+Step
+What to do
+Where / URL
+1
+Sign up
+Go to supabase.com 
+â†’
+ Start your project 
+â†’
+ sign in with GitHub
+supabase.com
+2
+Create project
+New Project 
+â†’
+ name: 
+novamind
+ 
+â†’
+ set strong database password (SAVE
+IT!) 
+â†’
+ region: closest to you
+app.supabase.com
+3
+Enable 
+pgvector
+SQL Editor 
+â†’
+ run this SQL: CREATE EXTENSION IF NOT EXISTS vector;
+â†’
+ click Run
+app.supabase.com/project/_/
+sql
+4
+Get connection strings
+Settings 
+â†’
+ Database 
+â†’
+ Connection string 
+â†’
+ Transaction mode URI (for DATABASE_URL) + Direct connection URI (for DIRECT_URL for migrations)
+app.supabase.com/project/_/settings/database
+5
+Get service role key
+Settings 
+â†’
+ API 
+â†’
+ copy the 
+service_role
+ key (secret â€” never expose to frontend)
+app.supabase.com/project/_/settings/
+api
+6
+Add 
+to .env
+DATABASE_URL=
+postgresql://postgres.[
+ref
+]:[
+pass]@aws-0-[region
+].pooler
+. supabase.com:6543/
+postgres?pgbouncer
+=true DIRECT_URL=postgresql:// 
+postgres
+:[
+pass]@db.[ref
+].supabase.co:5432
+/postgres SUPABASE_SERVICE_ROLE_KEY=
+eyJ
+...
+your .env file
+7
+Run Prisma migration 
+cd packages/
+db
+ && 
+npx
+ 
+prisma
+ migrate dev --name 
+init
+ -- this creates all 12 tables
+terminal
+Upstash
+ Redis â€” FREE 10,000 commands per day
+Step
+What to do
+Where / URL
+1
+Sign up
+upstash.com 
+â†’
+ Start Free 
+â†’
+ sign in with GitHub or Google
+upstash.com
+2
+Create database
+Create Database 
+â†’
+ name: 
+novamind-redis
+ 
+â†’
+ Type: Regional 
+â†’
+ select region closest to you 
+â†’
+ TLS: enabled 
+â†’
+ Create
+console.upstash.com
+3
+Copy connection details
+Database 
+â†’
+ Details 
+â†’
+ REST API section 
+â†’
+ copy REST URL and REST
+Token
+console.upstash.com
+4
+Add 
+to .env
+REDIS_URL=
+rediss://default:[
+pass]@[host
+].upstash.io:6379
+UPSTASH_REDIS_REST_URL=https://[host
+].upstash.io
+ UPSTASH_REDIS_REST_TOKEN=AX...
+your .env file
+5
+Install + test 
+pip 
+install
+ 
+upstash-redis
+ 
+â†’
+ python3 -c "from 
+upstash_redis
+ import Redis; r=
+Redis.from_
+env
+(
+); 
+r.set
+('
+test','ok
+'); print(
+r.get
+('test'))"
+terminal
+Clerk â€” FREE authentication up to 10,000 monthly active users
+Step
+What to do
+Where / URL
+1
+Sign up
+clerk.com 
+â†’
+ Start Building for Free 
+â†’
+ sign in with GitHub or email
+clerk.com
+2
+Create application
+Create application 
+â†’
+ name: 
+NovaMind
+ 
+â†’
+ select auth methods: Email +
+Google + GitHub
+dashboard.clerk.com
+3
+Copy API keys
+Dashboard 
+â†’
+ API Keys 
+â†’
+ copy Publishable Key (
+pk_test
+_...) and Secret
+Key (
+sk_test
+_...)
+dashboard.clerk.com
+4
+Add 
+to .env
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+pk_test
+_... and CLERK_SECRET_KEY=
+sk_test
+_...
+your .env file
+5
+Set up webhook
+Clerk Dashboard 
+â†’
+ Webhooks 
+â†’
+ Add Endpoint 
+â†’
+ URL:
+https://yourdomain.com/api/webhooks/clerk 
+â†’
+ select: 
+user.created
+, 
+user.deleted
+ 
+â†’
+ copy Signing Secret
+dashboard.clerk.com/webhooks
+6
+Add CLERK_WEBHOOK_SECRET
+Add 
+to .env
+: CLERK_WEBHOOK_SECRET=
+whsec
+_...
+your .env file
+7
+Install + configure
+npm
+ install @clerk/nextjs 
+â†’
+ create 
+middleware.ts
+ with 
+clerkMiddleware
+(
+) 
+â†’ 
+wrap _
+app.tsx
+ with 
+ClerkProvider
+apps/web/
+Ably 
+WebSockets
+ â€” FREE 6 million messages per month
+Step
+What to do
+Where / URL
+1
+Sign up
+ably.com 
+â†’
+ Get started for free 
+â†’
+ sign up with GitHub or email
+ably.com
+2
+Create app
+Dashboard 
+â†’
+ Create App 
+â†’
+ name: 
+NovaMind
+ 
+â†’
+ click Create
+ably.com/dashboard
+3
+Copy API key
+App 
+â†’
+ API Keys 
+â†’
+ copy the Root key (format: 
+xxxxxxxx.yyyyyy
+:zzzzzzzz
+...)
+ably.com/dashboard
+4
+Add 
+to .env
+ABLY_API_
+KEY=
+xxxxxxxx.yyyyyy:zzzzzzz
+...
+your .env file
+5
+Install SDKs
+npm
+ install ably (Next.js frontend) pip install ably (
+FastAPI
+ backend)
+terminal
+6
+Subscribe in frontend 
+const
+ client = new
+Ably.Realtime
+(
+process.env.NEXT
+_PUBLIC_ABLY_API_KEY
+); 
+const
+ 
+ch
+ = 
+client.channels.get
+('workspace:'+
+workspaceId
++
+':feed
+'); 
+ch.subscribe
+('new-job-card', 
+msg
+ => 
+setCards
+(
+prev
+ => [
+msg.data
+, ...
+prev
+]));
+apps/web/
+Feed.tsx
+7
+Publish from backend
+from ably import 
+AblyRealtime
+; ably =
+AblyRealtime
+(
+settings.ABLY
+_API_KEY
+); channel = 
+ably.channels.get
+(
+f'workspace
+:{
+workspace_id
+}:feed
+'); 
+channel.publish
+('new-job-card', 
+job_card_payload
+)
+api/workers/tasks.py
+Serper
+ API â€” FREE 2,500 Google searches on signup
+Step
+What to do
+Where / URL
+1
+Sign up
+serper.dev
+ 
+â†’
+ Sign up for free 
+â†’
+ enter your email address
+serper.dev
+2
+Verify email
+Check inbox and click the verification link
+your email
+3
+Get API key
+Dashboard 
+â†’
+ API Key section 
+â†’
+ copy the key (
+32 character
+ hex string)
+serper.dev
+/dashboard
+4
+Add 
+to .env
+SERPER_API_KEY=
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+your .env file
+5
+Test it 
+curl -X POST 'https://google.serper.dev/search' -H 'X-API-KEY: YOUR_KEY'
+-H 'Content-Type: application/
+json
+' -d '{"
+q":"AI
+ marketing platform 2026"}'
+terminal
+6
+Use in agents 
+import requests; response = 
+requests.post
+(
+'https://google.serper.dev/search', headers
+={
+'X-API-KEY':
+settings.SERPER
+_API_KEY
+}, 
+json
+={
+'q': query, '
+num
+': 10})
+api/agents/tools/serper_search.py
+NewsAPI
+ â€” FREE 100 requests/day
+Step
+What to do
+Where / URL
+1
+Sign up
+newsapi.org â€” Get API Key â€” enter name and email
+newsapi.org
+2
+Verify email
+Check inbox and click verification link
+your email
+3
+Copy key
+Dashboard â€” copy your API key
+newsapi.org/account
+4
+Add 
+to .env
+NEWSAPI_KEY=
+xxxx
+...
+your .env file
+5
+Also try newsdata.io
+newsdata.io gives 200 
+req
+/day FREE. Sign up: NEWSDATA_API_KEY
+newsdata.io
+Groq
+ API â€” FREE 
+LLaMA
+ 3.3 70B (1,000 
+req
+/day free)
+Step
+What to do
+Where / URL
+1
+Go to 
+Groq
+ Console
+Open browser and navigate to the 
+Groq
+ console website
+console.groq.com
+2
+Create account
+Click Sign Up 
+â†’
+ sign in with GitHub, Google, or email 
+â†’
+ verify email if needed
+console.groq.com/login
+3
+Create API Key
+Dashboard 
+â†’
+ API Keys (left sidebar) 
+â†’
+ Create API Key 
+â†’
+ name it 
+novamind
+-dev
+console.groq.com/keys
+4
+Copy key 
+to .env
+Add 
+to .env
+: GROQ_API_KEY=
+gsk_xxxxxxxxxxxxxxxxxxxx
+your .env file
+5
+Test it 
+curl -X POST https://api.groq.com/openai/v1/chat/completions -H
+'Authorization: Bearer YOUR_KEY' -H 'Content-Type: application/
+json
+' -d '{" model":"llama-3.3-70b-versatile","messages
+":[
+{"role":"user","content":"hello"}
+]}'
+terminal
+6
+Use in code 
+from 
+groq
+ import 
+Groq
+; client=
+Groq
+(
+api_key
+=
+os.environ
+['GROQ_API_KEY']); response=
+client.chat
+.
+completions.create
+(model='llama-3.3-70b-versatile
+',me
+ 
+ssages
+=[
+{...}])
+api/core/llm_router.py
+Razorpay
+ â€” 2% transaction fee, no monthly cost, full UPI support
+Step
+What to do
+Where / URL
+1
+Sign up
+razorpay.com 
+â†’
+ Sign Up 
+â†’
+ enter business email + Indian mobile number
+razorpay.com
+2
+Verify contact details
+Verify email via link + phone via OTP
+Email + SMS
+3
+Complete KYC (CRITICAL)
+Account Settings 
+â†’
+ KYC 
+â†’
+ upload: GST certificate OR business registration OR cancelled cheque. Takes 1-3 business days. START THIS TODAY.
+dashboard.razorpay.com/app/
+kyc
+4
+Get test API keys
+Settings 
+â†’
+ API Keys 
+â†’
+ Generate Test Key 
+â†’
+ copy Key ID (
+rzp_test
+_...) and
+Key Secret
+dashboard.razorpay.com/app/website-app-settings/ 
+api
+-keys
+5
+Create 3 subscription plans
+Subscriptions 
+â†’
+ Plans 
+â†’
+ Create Plan 3 times: Starter (amount=399900 paise=Rs3999), Growth (1199900), Scale (2999900). Currency=INR,
+Period=Monthly, Interval=1
+dashboard.razorpay.com/app/subscriptions/plans
+6
+Copy plan IDs
+Copy each 
+plan_id
+ (format: 
+plan_XXXXXXXXXXXXXXXX
+) 
+â†’
+ add 
+to .env
+ as
+RAZORPAY_PLAN_STARTER, PLAN_GROWTH, PLAN_SCALE
+your .env file
+7
+Set up webhook
+Settings 
+â†’
+ Webhooks 
+â†’
+ Add webhook:
+https://yourdomain.com/api/webhooks/razorpay 
+â†’
+ select:
+payment.captured
+, 
+subscription.charged
+, 
+subscription.halted
+, 
+subscription.cancelled
+ 
+â†’
+ copy webhook secret
+dashboard.razorpay.com/app/webhooks
+8
+Switch to live mode (after KYC)
+After KYC approval: Settings 
+â†’
+ API Keys 
+â†’
+ Generate Live Key 
+â†’
+ update
+.env
+ with live keys (
+rzp_live
+_...) for production only
+dashboard.razorpay.com
+Anthropic Claude API â€” $5 free credit, then pay-per-token
+Step
+What to do
+Where / URL
+1
+Go to Anthropic Console
+Open browser 
+â†’
+ navigate to the Anthropic Console
+console.anthropic.com
+2
+Create account
+Click Sign up 
+â†’
+ enter email + password 
+â†’
+ verify email. Or sign in with Google.
+console.anthropic.com/login
+3
+Add billing (for beyond free credit)
+Console 
+â†’
+ Settings 
+â†’
+ Billing 
+â†’
+ Add payment method. Your $5 free credit works without a card but adding one prevents interruption when it runs out.
+console.anthropic.com/settings/billing
+4
+Create API key
+Console 
+â†’
+ API Keys 
+â†’
+ Create Key 
+â†’
+ name: 
+novamind
+-prod 
+â†’
+ copy the key (starts with sk-ant-api03-)
+console.anthropic.com/
+api
+-keys
+5
+Add 
+to .env
+ANTHROPIC_API_KEY=sk-ant-api03-xxxxxxxxxxxxxxxx...
+your .env file
+6
+Install SDK 
+pip 
+install
+ anthropic
+terminal
+7
+Test it 
+python3 -c "import 
+anthropic,os
+; c=
+anthropic.Anthropic
+(); m=
+c.messages.cre
+ 
+ate(
+model='claude-haiku-4-5-20251001
+',max
+_tokens=
+100,messages=[
+{'role'
+:'
+user','content':'Say
+ hi in one word'}]); print(
+m.content
+[0].text)"
+terminal
+8
+Set up model routing
+In 
+api
+/core/llm_router.py: map 
+task_type
+ to model. Simple tasks (social posts, safety checks) 
+â†’
+ haiku. Complex (SEO articles, strategy) 
+â†’
+ sonnet.
+Emergency strategy 
+â†’
+ opus.
+api/core/llm_router.py
+PART 4 â€” 
+Complete .env
+ Template
+never commit to 
+git  â€¢
+  add 
+to .
+gitignore
+ immediately
+SECURITY RULES: (1) Never 
+commit .env
+ to Git â€” add 
+to .
+gitignore
+ on day 1.
+(2)
+ 
+Use .
+env
+.development
+ for local, set vars directly in 
+Vercel
+ + Railway dashboards for production.
+(3)
+ Never log any value that contains KEY, SECRET, PASSWORD, or TOKEN in your application logs.
+PART 4 â€” Complete .env Template
+never commit to git  â€¢  add to .gitignore immediately
+SECURITY RULES: (1) Never commit .env to Git â€” add to .gitignore on day 1.
+(2)
+ Use .env.development for local, set vars directly in Vercel + Railway dashboards for production.
+(3)
+ Never log any value that contains KEY, SECRET, PASSWORD, or TOKEN in your application logs.
+# 
+â– â– 
+ AI PROVIDERS
+Variable Name
+Example / Format
+Where to get it
+Cost
+ANTHROPIC_API_KEY
+sk-ant-api03-...
+console.anthropic.com 
+â†’
+ API Keys
+$5 free credit
+GROQ_API_KEY
+gsk
+_...
+console.groq.com 
+â†’
+ API Keys
+FREE 1k 
+req
+/day
+GOOGLE_AI_API_KEY
+AIzaSy
+...
+aistudio.google.com 
+â†’
+ Get API Key
+FREE 1M tokens/day
+MISTRAL_API_KEY
+...
+console.mistral.ai 
+â†’
+ API Keys
+Free tier
+OPENROUTER_API_KEY
+sk
+-or-...
+openrouter.ai 
+â†’
+ Keys
+Free models avail
+# 
+â– â– 
+ DATABASE
+Variable Name
+Example / Format
+Where to get it
+Cost
+DATABASE_URL
+postgresql://postgres.[
+ref
+]:[
+pass]
+@[
+ region
+].pooler.supabase.com:6
+...
+Supabase
+ 
+â†’
+ Settings 
+â†’
+ Database 
+â†’
+Transaction
+FREE 500MB
+DIRECT_URL
+postgresql://postgres:[
+pass]@
+db.[ref ].supabase.co:5432
+/
+postgres
+Supabase
+ 
+â†’
+ Direct connection (for migrations)
+FREE
+SUPABASE_URL
+https://[ref
+].supabase.co
+Supabase
+ 
+â†’
+ Settings 
+â†’
+ API 
+â†’
+ Project URL
+FREE
+SUPABASE_SERVICE_ROLE_KEY
+eyJ
+...
+Supabase
+ 
+â†’
+ Settings 
+â†’
+ API 
+â†’
+ 
+service_role
+ key
+FREE
+REDIS_URL
+rediss://default:[
+pass]@[host
+].upsta
+ sh.io:6379
+Upstash
+ 
+â†’
+ Database 
+â†’
+ Connection Details
+FREE 10k/day
+UPSTASH_REDIS_REST_URL
+https://[host
+].upstash.io
+Upstash
+ 
+â†’
+ REST API URL
+FREE
+UPSTASH_REDIS_REST_TOKEN
+AX...
+Upstash
+ 
+â†’
+ REST Token
+FREE
+NEO4J_URI
+neo4j+s://[id
+].databases.neo4j.io
+Neo4j Aura 
+â†’
+ Instance 
+â†’
+ Connection URI
+FREE 200k nodes
+NEO4J_USERNAME
+neo4j
+Neo4j Aura default username
+FREE
+NEO4J_PASSWORD
+...
+Neo4j Aura 
+â†’
+ created on instance creation, save it
+FREE
+# 
+â– â– 
+ QUEUE & AUTH
+Variable Name
+Example / Format
+Where to get it
+Cost
+KAFKA_BROKERS
+pkc-xxx.us-east-1.aws.confluent.clou
+ d:9092
+Confluent Cloud 
+â†’
+ Cluster 
+â†’
+ Client Config
+Free serverless
+KAFKA_API_KEY
+...
+Confluent Cloud 
+â†’
+ API Keys
+Free
+KAFKA_API_SECRET
+...
+Confluent Cloud 
+â†’
+ API Keys 
+â†’
+ Secret
+Free
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
+pk_test
+_...
+Clerk Dashboard 
+â†’
+ API Keys
+FREE 10k MAU
+CLERK_SECRET_KEY
+sk_test
+_...
+Clerk Dashboard 
+â†’
+ API Keys
+FREE
+CLERK_WEBHOOK_SECRET
+whsec
+_...
+Clerk 
+â†’
+ Webhooks 
+â†’
+ Signing Secret
+FREE
+# 
+â– â– 
+ REAL-TIME & EMAIL
+Variable Name
+Example / Format
+Where to get it
+Cost
+ABLY_API_KEY
+xxxxxxxx.yyyyyy
+:zzz
+...
+Ably 
+â†’
+ App 
+â†’
+ API Keys 
+â†’
+ Root key
+FREE 6M 
+msg
+/
+mo
+RESEND_API_KEY
+re_...
+Resend 
+â†’
+ API Keys
+FREE 3k emails/
+mo
+RESEND_FROM_EMAIL
+noreply@yourdomain.com
+Must match verified domain in Resend
+# 
+â– â– 
+ PAYMENTS
+Variable Name
+Example / Format
+Where to get it
+Cost
+RAZORPAY_KEY_ID
+rzp_test
+_... (test) or 
+rzp_live
+_... (prod)
+Razorpay
+ 
+â†’
+ Settings 
+â†’
+ API Keys
+2% fee, no monthly
+RAZORPAY_KEY_SECRET
+...
+Razorpay
+ 
+â†’
+ Settings 
+â†’
+ API Keys
+RAZORPAY_WEBHOOK_SECRET
+...
+Razorpay
+ 
+â†’
+ Settings 
+â†’
+ Webhooks 
+â†’
+ Secret
+RAZORPAY_PLAN_STARTER
+plan_...
+Razorpay
+ 
+â†’
+ Subscriptions 
+â†’
+ Plans
+RAZORPAY_PLAN_GROWTH
+plan_...
+Razorpay
+ 
+â†’
+ Subscriptions 
+â†’
+ Plans
+RAZORPAY_PLAN_SCALE
+plan_...
+Razorpay
+ 
+â†’
+ Subscriptions 
+â†’
+ Plans
+# 
+â– â– 
+ SEO & SEARCH
+Variable Name
+Example / Format
+Where to get it
+Cost
+GOOGLE_CLIENT_ID
+xxx.apps.googleusercontent.com
+Google Cloud 
+â†’
+ OAuth 2.0 (covers GA4,
+Search Console, Gmail, Drive, Calendar)
+FREE
+GOOGLE_CLIENT_SECRET
+GOCSPX-...
+Google Cloud 
+â†’
+ OAuth 2.0 Credentials
+FREE
+SERPER_API_KEY
+...
+serper.dev
+ 
+â†’
+ Dashboard
+FREE 2,500 searches
+NEWSAPI_KEY
+...
+newsapi.org 
+â†’
+ Dashboard
+FREE 100/day
+NEWSDATA_API_KEY
+pub_...
+newsdata.io 
+â†’
+ Dashboard
+FREE 200/day
+# 
+â– â– 
+ SOCIAL PLATFORMS
+Variable Name
+Example / Format
+Where to get it
+Cost
+LINKEDIN_CLIENT_ID
+...
+developer.linkedin.com 
+â†’
+ App 
+â†’
+ Auth
+FREE (2-4 
+wk
+ approval)
+LINKEDIN_CLIENT_SECRET
+...
+LinkedIn Developer App 
+â†’
+ Auth
+FREE
+META_APP_ID
+...
+developers.facebook.com 
+â†’
+ App 
+â†’
+ Settings 
+â†’
+ Basic
+FREE (
+3-5 day
+ review)
+META_APP_SECRET
+...
+Meta App 
+â†’
+ Settings 
+â†’
+ Basic
+FREE
+REDDIT_CLIENT_ID
+...
+reddit.com/
+prefs
+/apps 
+â†’
+ App
+FREE
+REDDIT_CLIENT_SECRET
+...
+Reddit App 
+â†’
+ Secret
+FREE
+# 
+â– â– 
+ TOOLS & OBSERVABILITY
+Variable Name
+Example / Format
+Where to get it
+Cost
+SLACK_BOT_TOKEN
+xoxb
+-...
+api.slack.com 
+â†’
+ App 
+â†’
+ OAuth & Permissions
+FREE
+SLACK_SIGNING_SECRET
+...
+Slack App 
+â†’
+ Basic Information
+FREE
+NOTION_API_KEY
+secret_...
+notion.com/my-integrations
+FREE
+HUBSPOT_ACCESS_TOKEN
+pat-na1-...
+HubSpot 
+â†’
+ Settings 
+â†’
+ Private Apps
+FREE CRM
+LANGCHAIN_API_KEY
+ls__...
+smith.langchain.com 
+â†’
+ API Keys
+FREE 5k traces
+SENTRY_DSN
+https://xxx@sentry.io/yyy
+sentry.io 
+â†’
+ Project 
+â†’
+ Client Keys
+FREE 5k errors
+GROWTHBOOK_API_HOST
+http://growthbook:3100
+Your Railway service URL
+FREE
+self-hosted
+GROWTHBOOK_API_KEY
+secret_...
+GrowthBook
+ 
+â†’
+ Settings 
+â†’
+ API Keys
+FREE
+# 
+â– â– 
+ APP CONFIG
+Variable Name
+Example / Format
+Where to get it
+Cost
+NEXT_PUBLIC_APP_URL
+https://yourdomain.com
+Your production domain
+API_SECRET_KEY
+[64 char hex]
+Run: 
+openssl
+ rand -hex 32
+NODE_ENV
+development | staging | production
+Set per environment
+LANGCHAIN_TRACING_V2
+true
+Enables 
+LangSmith
+ tracing
+LANGCHAIN_PROJECT
+novamind
+LangSmith
+ project name
+PART 5 â€” 14-Day API Setup Action Plan
+get the full stack ready in two weeks
+PART 5 â€” 14-Day API Setup Action Plan
+get the full stack ready in two weeks
+Day / Period
+Goal
+Exact Actions
+Day 1 (2â€“3 hrs)
+Core infra + free
+LLMs
+Sign up 
+Supabase
+ 
+â†’
+ create project 
+â†’
+ enable 
+pgvector
+ 
+â†’
+ copy DATABASE_URL + DIRECT_URL +
+SERVICE_ROLE_KEY Sign up 
+Upstash
+ 
+â†’
+ create Redis 
+â†’
+ copy REDIS_URL + REST_URL + REST_TOKEN Sign up Clerk 
+â†’
+ create app 
+â†’
+ copy PUBLISHABLE_KEY + SECRET_KEY Sign up 
+Groq
+ 
+â†’
+ create API key 
+â†’
+ test one 
+LLaMA
+ call 
+â†’
+ GROQ_API_KEY Sign up Google AI Studio 
+â†’
+ get Gemini Flash key 
+â†’
+ GOOGLE_AI_API_KEY Sign up 
+Serper
+ 
+â†’
+ get API key 
+â†’
+ test one search 
+â†’
+ SERPER_API_KEY Sign up 
+NewsAPI
+ 
+â†’
+ get API key 
+â†’
+NEWSAPI_KEY 
+â– 
+ You now have: database, auth, real LLM, search, news â€” working stack day 1
+Day 2 (2 hrs)
+Messaging + email + payments test
+Sign up Ably 
+â†’
+ create app 
+â†’
+ copy root key 
+â†’
+ ABLY_API_KEY Sign up Resend 
+â†’
+ create API key 
+â†’
+ add + verify domain 
+â†’
+ RESEND_API_KEY Sign up Confluent Cloud 
+â†’
+ create serverless Kafka 
+â†’
+ create API key 
+â†’
+KAFKA_BROKERS Create Neo4j Aura Free instance 
+â†’
+ download credentials file 
+â†’
+ NEO4J_URI Sign up 
+Razorpay
+ (test mode) 
+â†’
+ copy test keys 
+â†’
+ RAZORPAY_KEY_ID 
+â– 
+ Full messaging + notification + payment test stack ready
+Day 3 (1 hr)
+Submit slow-approval applications
+Apply LinkedIn Marketing Developer Platform (2â€“4 weeks â€” do this NOW) Apply X (Twitter) Basic API â€” $100/
+mo
+,
+1â€“2 weeks business verification Create Meta Developer App 
+â†’
+ submit for Advanced Access (3â€“5 days) Start 
+Razorpay
+ KYC 
+â†’
+ upload GST certificate (1â€“3 days for live mode) Submit Google OAuth app verification if using sensitive scopes (3â€“7 days) 
+â– 
+ Applications submitted â€” approve while you build
+Day 4 (1 hr)
+Google OAuth +
+Anthropic Claude
+Google Cloud Console 
+â†’
+ New Project 
+â†’
+ enable: GA4 Data API, Search Console API, Gmail API, Drive API, Calendar API Create OAuth 2.0 credentials 
+â†’
+ GOOGLE_CLIENT_ID + GOOGLE_CLIENT_SECRET (one key covers all 5 APIs) Sign up Anthropic 
+â†’
+ add payment card 
+â†’
+ create API key 
+â†’
+ ANTHROPIC_API_KEY Sign up
+LangSmith
+ 
+â†’
+ copy key 
+â†’
+ LANGCHAIN_API_KEY Sign up Sentry 
+â†’
+ create Next.js + Python projects 
+â†’
+SENTRY_DSN 
+â– 
+ Google services + Claude API + observability all connected
+Day 5â€“7
+(as KYC approves)
+Razorpay
+ live mode + plans
+Razorpay
+ KYC approved (1â€“3 days) 
+â†’
+ Settings 
+â†’
+ Generate Live Key 
+â†’
+ RAZORPAY_KEY_ID (live) Create 3 subscription plans: Starter (
+â– 
+3,999 = 399900 paise), Growth (
+â– 
+11,999), Scale (
+â– 
+29,999) Copy plan IDs 
+â†’
+RAZORPAY_PLAN_STARTER / GROWTH / SCALE Set up 
+Razorpay
+ webhook 
+â†’
+ add /
+api
+/webhooks/
+razorpay
+ 
+â†’ 
+RAZORPAY_WEBHOOK_SECRET Test full payment flow with test card 4111 1111 1111 1111 
+â– 
+ Payments fully functional â€” you can charge real customers
+Day 8â€“14
+(as approvals arrive)
+Social platforms + final tools
+Meta approval (3â€“5 days) 
+â†’
+ META_APP_ID + META_APP_SECRET 
+â†’
+ test Instagram post API Set up Slack app
+(self-approved, 10 min) 
+â†’
+ SLACK_BOT_TOKEN 
+â†’
+ test DM notification Set up Notion integration (instant) 
+â†’
+NOTION_API_KEY Sign up HubSpot free 
+â†’
+ create Private App 
+â†’
+ HUBSPOT_ACCESS_TOKEN Deploy
+GrowthBook
+ to Railway (self-hosted, free) 
+â†’
+ GROWTHBOOK_API_KEY Sign up Grafana Cloud 
+â†’
+ set up 
+OpenTelemetry
+ endpoint 
+â†’
+ OTEL_ENDPOINT LinkedIn approval (2â€“4 weeks) 
+â†’
+ LINKEDIN_CLIENT_ID + SECRET 
+â†’
+ test post API 
+â– 
+ Complete API stack. All 9 agents can run end-to-end.
+Total free infrastructure cost to start building: 
+â– 
+0 per month. The only unavoidable ongoing costs are: Railway backend hosting (~
+â– 
+500/
+mo
+),
+Razorpay
+ transaction fees (2% per payment), and Claude API tokens once you exceed the $5 free credit. Everything else â€” 
+Groq
+ LLM, Gemini, 
+Supabase
+, Clerk, 
+Upstash
+, Ably, Resend, Neo4j, 
+Serper
+, 
+NewsAPI
+ â€” runs on free tiers until you have real paying users funding the upgrades.
